@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+ 
+ <html>
+   <body>
+     <h1>Lara Whitten</h1>
+       <ul>
+         <ol>Singer</ol>
+         <ol>Dancer</ol>
+         <ol>Guitar</ol>
+         <ol>Sag/Aftra</ol>
+       </ul>
+       
+ 
+     <p>
+       Living and working on The Las Vegas Strip has been a
+       fabulous experience in glamour and glutton galore. 
+       Please join me as I move onward to becoming a wellness
+       professional and mend my ways. 
+       Send me a note at: <a href="http://www.LaraWhitten.com">here</a> to message me on my website.
+     </p>
+          <img src="https://photos.google.com/share/AF1QipOnbZNO99lwNHgfwtyTtoPIq2LP4ypDjNdpuFWzLgCaaFwfAfZIth3V-ZZiKsWTjQ?key=eHRqbmJpVUdHT0kyV2ZXMVVaUHk1UGV3el9idGhB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/QGx703lTqbd0kpxx1S98PgPqJTJ47VkSATY_9ZuY84D6_9nANVmwrkO4RZXR8EDSvVCOHjCti1-RUwjlzXw9pv5liZMxeZwZXmQC4edrJ3LEkr_FTrFKB_kehuro57S7KsVyZfduEg=w2400'/></a>"align="right">
+     
+     <head>
+      <title>HTML Table Header</title>
+   </head>
+	
+   <body>
+      <table border = "1">
+         <tr>
+            <th>Character</th>
+            <th>Show</th>
+            <th>Episode</th>
+         </tr>
+         <tr>
+            <td>Lindsay Looped</td>
+            <td>Awesome Interiors</td>
+            <td>Gramercy Circle WEHO</td>
+         </tr>
+         
+         <tr>
+            <td>Tabby Tinsle </td>
+            <td>Melrose Space</td>
+            <td>Le Casino</td>
+         </tr>
+         <tr>
+            <td>Herself</td>
+            <td>Showgirl Cabaret</td>
+            <td>The Showgirl</td>
+         </tr>
+      </table>
+   </body>
+ 
+     <p>
+       <a href='https://photos.google.com/share/AF1QipMGgmi4RHXsz161inHdBPAdKihWU3M7_juZtx1KwEY0qcw1B_QsIP0VqQf2eR9fqA?key=NmlZOHlIdWtjMkQ2Zzg1S1RndjJQUk9BSTA5dXJn&source=ctrlq.org'><body background="https://lh3.googleusercontent.com/xjFQj8OzreXWRh8PUhdHlGmkUpWN3bZMfEq6gyFTuPi0R7DB0_z11w1m8pPiIR_9ceucPQtDqyPq--K19nvm2YpnbwKEFRqUKQT_mGqW8WG0tRcZPXvLroAxtwXXDyAIHuZsr6cBRg=w2400" bgproperties="fixed"><img src='https://lh3.googleusercontent.com/xjFQj8OzreXWRh8PUhdHlGmkUpWN3bZMfEq6gyFTuPi0R7DB0_z11w1m8pPiIR_9ceucPQtDqyPq--K19nvm2YpnbwKEFRqUKQT_mGqW8WG0tRcZPXvLroAxtwXXDyAIHuZsr6cBRg=w2400' /></a>
+       <a href="mailto:Lara@LaraWhitten.com"><width="15" height="18"> Email Me</a>
+     </p>
+   </body>
+ </html>

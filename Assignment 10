@@ -56,3 +56,48 @@
      </p>
    </body>
  </html>
+ create table filmresume(
+id serial primary key,
+user_id integer not null references users(id),
+last name varcher (1000) not null,
+first name varcher (1000) not null,
+union varcher (1) not null,
+eyes varcher (1) not null,
+hair varcher (1) not null,
+height varcher (1)
+);
+
+create table film(
+id serial primary key,
+user_id integer not null references users(id),
+film title varcher(100) not null,
+release date varcher(100) not null,
+artist id varcher(1) not null,
+);
+
+create table TV(
+id serial primary key,
+user_id integer not null references users(id)
+TV title varcher(100) not null,
+TV length varcher(100) not null,
+episode name varcher(100) not null,
+artist id varcher(1) not null,
+);
+
+INSERT INTO['Film'](['Title'],['Character'],['Director'],['Production Company'])
+VALUES (['Entitled Las Vegas Feature'],['Sapphire'],['Mistinguett de Paris'],['The Strip Productions'])
+INSERT INTO['Film'](['Title'],['Character'],['Director'],['Production Company'])
+VALUES (['..if ever there were no Las Vegas'],['Race Car Driver'],['Local Boy Casino Kid'],['The Lockdown Productions'])
+INSERT INTO['Film'](['Title'],['Character'],['Director'],['Production Company'])
+VALUES (['My Hustler Script'],['Nicky'],['Tony Badaccio'],['The Loss Vegas Productions'])
+
+
+INSERT INTO['TV'](['Title'],['Episode'],['Character'],['Director'],['Production Company'])
+VALUES (['The Vegas Motel Diary'],['When the Cat Lady Sings'],['L.Whitten'],['L.Whitten'])
+INSERT INTO['TV'](['Title'],['Episode'],['Character'],['Director'],['Production Company'])
+VALUES (['The Vegas Motel Diary'],['Sunrise O'Stripper'],['L.Whitten'],['L.Whitten'])
+INSERT INTO['TV'](['Title'],['Episode'],['Character'],['Director'],['Production Company'])
+VALUES (['The Vegas Motel Diary'],['Freaking Tweaking'],['L.Whitten'],['L.Whitten'])
+INSERT INTO['TV'](['Title'],['Episode'],['Character'],['Director'],['Production Company'])
+VALUES (['The Vegas Motel Diary'],['Neonopoly'],['L.Whitten'],['L.Whitten'])
+

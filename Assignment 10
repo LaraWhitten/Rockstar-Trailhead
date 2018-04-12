@@ -118,5 +118,12 @@ VALUES (['The Vegas Motel Diary'],['Neonopoly'],['L.Whitten'],['L.Whitten'])
   return t;
 }(document, "script", "twitter-wjs"));</script>
 
+<a id = "tweet_btn" target = "_blank" class="btn btn-primary btn-lg" ><i class="fa fa-twitter"></i> Tweet</a>
+          <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+          <i class="<i class="em em-lips"></i>
+          <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+          <i class="em em-frog"></i>
+
+
 
 
